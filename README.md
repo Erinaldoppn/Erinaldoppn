@@ -58,3 +58,8 @@
 <img src="https://raw.githubusercontent.com/Erinaldo-IF/Erinaldo-IF/output/snake.svg" alt="Snake animation" />
 
 ###
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Erinaldo-IF/count.svg?"  />
+</div>
+
+###
